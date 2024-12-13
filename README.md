@@ -15,7 +15,31 @@ I’m an cybersecurity reseacher with a few years of experience, specializing in
 
 My strong background in computer science allows me to approach challenges with a comprehensive understanding of systems and software security.
 
-I’m excited to collaborate with you! </details>
+I’m excited to collaborate with you! 
+
+```
+            ,----------------,              ,---------,
+        ,-----------------------,          ,"        ,"|
+      ,"                      ,"|        ,"        ,"  |
+     +-----------------------+  |      ,"        ,"    |
+     |  .-----------------.  |  |     +---------+      |
+     |  |                 |  |  |     | -==----'|      |
+     |  |  sudo chmod     |  |  |     |         |      |
+     |  |  -R 777         |  |  |/----|`---=    |      |
+     |  |  /your_Brain    |  |  |   ,/|==== ooo |      ;
+     |  |                 |  |  |  // |(((( [o] |    ,"
+     |  `-----------------'  |," .;'| |((((     |  ,"
+     +-----------------------+  ;;  | |         |,"     
+        /_)______________(_/  //'   | +---------+
+   ___________________________/___  `,
+  /  oooooooooooooooo  .o.  oooo /,   \,"-----------
+ / ==ooooooooooooooo==.o.  ooo= //   ,`\--{)B     ,"
+/_==__==========__==_ooo__ooo=_/'   /___________,"
+`-----------------------------'
+
+```
+
+</details>
 
 ```
 ████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
