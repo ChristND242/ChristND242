@@ -2,13 +2,13 @@
 
 <br><br>
 
-[![](https://visitcount.itsvg.in/api?id=ChristND242&icon=5&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=ChristND242&icon=5&color=6)](https://visitcount.itsvg.in) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="45" height="45" />
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Dark%20Skin%20Tone.png" alt="Waving Hand Medium-Dark Skin Tone" width="25" height="25" /> Hi, I’m Christ ND <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="20" height="20" />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" /> I’m interested in new **technologie, video games, self development, learning and more**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Dark%20Skin%20Tone.png" alt="Man Technologist Dark Skin Tone" width="25" height="25" /> I’m currently expanding my expertise in **Cyber Security**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands%20Dark%20Skin%20Tone.png" alt="Heart Hands Dark Skin Tone" width="25" height="25" /> I am seeking opportunities to collaborate on **IT** and **Cyber Security-related projects**.
-- 📫 How to reach me christndzila400@gmail.com, christ@ndsec24.tech, christnd@congolaisdenanjing.com
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Teddy%20Bear.png" alt="Teddy Bear" width="35" height="35" /> How to reach me christndzila400@gmail.com, christ@ndsec24.tech, christnd@congolaisdenanjing.com
 
 <details><summary>Check it Out! </summary> 
 I’m an cybersecurity reseacher with a few years of experience, specializing in IT, network security, systems administration. I have hands-on experience with various technologies including  firewall management, cryptography...
