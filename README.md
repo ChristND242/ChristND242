@@ -8,7 +8,7 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" /> I’m interested in new **technologie, video games, self development, learning and more**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Dark%20Skin%20Tone.png" alt="Man Technologist Dark Skin Tone" width="25" height="25" /> I’m currently expanding my expertise in **Cyber Security**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands%20Dark%20Skin%20Tone.png" alt="Heart Hands Dark Skin Tone" width="25" height="25" /> I am seeking opportunities to collaborate on **IT** and **Cyber Security-related projects**.
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Teddy%20Bear.png" alt="Teddy Bear" width="35" height="35" /> How to reach me christndzila400@gmail.com, christ@ndsec24.tech, christnd@congolaisdenanjing.com
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Teddy%20Bear.png" alt="Teddy Bear" width="35" height="35" /> How to reach me christndzila400@gmail.com, christ@ndsec24.tech, christnd@congolaisdenanjing.com, admin@ponaekolo.me
 
 <details><summary>Check it Out! </summary> 
 I’m an cybersecurity reseacher with a few years of experience, specializing in IT, network security, systems administration. I have hands-on experience with various technologies including  firewall management, cryptography...
