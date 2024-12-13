@@ -10,6 +10,13 @@
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands%20Dark%20Skin%20Tone.png" alt="Heart Hands Dark Skin Tone" width="25" height="25" /> I am seeking opportunities to collaborate on **IT** and **Cyber Security-related projects**.
 - 📫 How to reach me christndzila400@gmail.com, christ@ndsec24.tech, christnd@congolaisdenanjing.com
 
+<details><summary>Check it Out! </summary> 
+I’m an cybersecurity reseacher with a few years of experience, specializing in IT, network security, systems administration. I have hands-on experience with various technologies including  firewall management, cryptography...
+
+My strong background in computer science allows me to approach challenges with a comprehensive understanding of systems and software security.
+
+I’m excited to collaborate with you! </details>
+
 ```
 ████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
 ████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
@@ -65,7 +72,7 @@ You can click the Preview link to take a look at your changes.
 
 ---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) , https://animated-fluent-emoji.vercel.app/, https://patorjk.com/software/taag/#p=testall&h=3&v=1&c=c%2B%2B&f=Graffiti&t=Christ%20ND-->
 
 ```txt
  
