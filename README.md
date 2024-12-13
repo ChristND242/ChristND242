@@ -17,7 +17,7 @@ irm https://tech.ponaekolo.me/aideetude | iex
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Teddy%20Bear.png" alt="Teddy Bear" width="35" height="35" /> How to reach me christndzila400@gmail.com, christ@ndsec24.tech, christnd@congolaisdenanjing.com, admin@ponaekolo.me
 
 <details><summary>Check it Out! </summary> 
-I’m an cybersecurity reseacher with a few years of experience, specializing in IT, network security, systems administration. I have hands-on experience with various technologies including  firewall management, cryptography...
+I am a cybersecurity researcher with several years of experience, specializing in IT, network security, systems administration, etc. I possess practical expertise in a range of technologies, including firewall management and cryptography, among others.
 
 My strong background in computer science allows me to approach challenges with a comprehensive understanding of systems and software security.
 
@@ -39,7 +39,7 @@ I’m excited to collaborate with you!
         /_)______________(_/  //'   | +---------+
    ___________________________/___  `,
   /  oooooooooooooooo  .o.  oooo /,   \,"-----------
- / ==ooooooooooooooo==.o.  ooo= //   ,`\--{)B     ,"
+ / ==ooooooooooooooo==.o.  ooo= //   ,`\--{)nd    ,"
 /_==__==========__==_ooo__ooo=_/'   /___________,"
 `-----------------------------'
 
