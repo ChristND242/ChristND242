@@ -13,11 +13,11 @@ irm https://tech.ponaekolo.me/aideetude | iex
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand%20Medium-Dark%20Skin%20Tone.png" alt="Waving Hand Medium-Dark Skin Tone" width="25" height="25" /> Hi, I’m Christ ND <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Beaming%20Face%20with%20Smiling%20Eyes.png" alt="Beaming Face with Smiling Eyes" width="20" height="20" />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" alt="Eyes" width="25" height="25" /> I’m interested in new **technologie, video games, self development, learning and more**
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Dark%20Skin%20Tone.png" alt="Man Technologist Dark Skin Tone" width="25" height="25" /> I’m currently expanding my expertise in **Cyber Security**
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands%20Dark%20Skin%20Tone.png" alt="Heart Hands Dark Skin Tone" width="25" height="25" /> I am seeking opportunities to collaborate on **IT** and **Cyber Security-related projects**.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Heart%20Hands%20Dark%20Skin%20Tone.png" alt="Heart Hands Dark Skin Tone" width="25" height="25" /> I'm open to collaborate on **IT** and **Cyber Security-related projects**.
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Teddy%20Bear.png" alt="Teddy Bear" width="35" height="35" /> How to reach me christndzila400@gmail.com, christ@ndsec24.tech, christnd@congolaisdenanjing.com, admin@ponaekolo.me
 
 <details><summary>Check it Out! </summary> 
-I am a cybersecurity researcher with several years of experience, specializing in IT, network security, systems administration, etc. I possess practical expertise in a range of technologies, including firewall management and cryptography, among others.
+I am a cybersecurity researcher, specializing in IT, network security, systems administration, etc. I possess practical expertise in a range of technologies, including firewall management and cryptography, among others.
 
 My strong background in computer science allows me to approach challenges with a comprehensive understanding of systems and software security.
 
